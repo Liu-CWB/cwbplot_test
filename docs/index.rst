@@ -18,5 +18,5 @@ Documentation
 ==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: １
    ./use
