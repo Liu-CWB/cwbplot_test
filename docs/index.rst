@@ -19,4 +19,5 @@ Documentation
 
 .. toctree::
    :maxdepth: 2
-   use
+   :hidden:
+   How to use <use>
