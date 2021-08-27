@@ -12,9 +12,9 @@ __version__ = '1.0'
 # -- General configuration -----------------------------------------------------
 
 source_suffix = '.rst'
-master_doc = 'index'
-project = 'cwbplot'
-copyright = '2021, Cheng-Chin Liu'
+master_doc = u'index'
+project = u'cwbplot'
+copyright = u'2016, Cheng-Chin Liu'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
