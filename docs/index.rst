@@ -13,7 +13,8 @@ CWBPLOT
 |             |                                                        |
 +-------------+--------------------------------------------------------+
 
-example <./static/cwbcolorbar>
+`Example <./cwb_colorbar.rst>`_
+
 
 Documentation
 ==================
@@ -21,4 +22,4 @@ Documentation
 .. toctree::
    :maxdepth: 2
    :hidden:
-   How to use <use_example>
+   How to use <./use_example.rst>
