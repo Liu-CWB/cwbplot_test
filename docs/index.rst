@@ -1,4 +1,3 @@
-=====
 CWBPLOT
 =====
 
@@ -20,4 +19,4 @@ Documentation
 .. toctree::
    :maxdepth: 2
    :hidden:
-   How to use <use>
+   How to use <use_example>
