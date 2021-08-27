@@ -1,11 +1,7 @@
 How to use
 =====
 
-cwb_colorbar
+cwb_colorbar_example
 -----
 
-example
-ji
-
-ji3jiojkl;
-jio3jojio
+example <cwb_colorbar>
