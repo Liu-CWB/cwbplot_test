@@ -5,7 +5,7 @@ whichpy=`which python`
 echo ${whichpy}
 
 
-mkdir "${whichpy}/cwbplot"
+mkdir "/srv/conda/envs/notebook/lib/python3.7/site-packges/cwbplot"
 
 wget "https://github.com/Liu-CWB/cwbplot/archive/refs/heads/master.zip" -P "${HOME}"
 unzip "${HOME}/master.zip"
