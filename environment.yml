@@ -15,3 +15,4 @@ dependencies:
   - cartopy
   - proplot
   - pygrib
+  - basemap-data-hires
