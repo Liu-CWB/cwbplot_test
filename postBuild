@@ -1,0 +1,13 @@
+#!/bin/bash
+set -ex
+
+whichpy=`which python`
+echo ${whichpy}
+
+
+mkdir "${whichpy}/cwbplot"
+
+wget "https://github.com/Liu-CWB/cwbplot/archive/refs/heads/master.zip" -P "${HOME}"
+unzip "${HOME}/master.zip"
+cp ${HOME}/cwbplot-master/*.py "${whichpy}/cwbplot"
+touch "${whichpy}/cwbplot/__init__.py"
