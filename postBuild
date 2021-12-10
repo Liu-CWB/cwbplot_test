@@ -4,8 +4,10 @@ set -ex
 whichpy=`which python`
 echo ${whichpy}
 
-ls /srv/conda/envs/notebook/lib/python3.7/site-packges/ 
-mkdir /srv/conda/envs/notebook/lib/python3.7/site-packges/cwbplot
+whichlib=`python -c 'import site; print(site.getsitepackages()[0])'`
+
+echo ${whichlib}
+mkdir ${whichlib}/cwbplot
 
 wget "https://github.com/Liu-CWB/cwbplot/archive/refs/heads/master.zip" -P "${HOME}"
 unzip "${HOME}/master.zip"
