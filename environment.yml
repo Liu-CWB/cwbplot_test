@@ -16,3 +16,7 @@ dependencies:
   - proplot
   - pygrib
   - basemap-data-hires
+  - netcdf4
+  - wrf-python
+  - xarray
+  - metpy
