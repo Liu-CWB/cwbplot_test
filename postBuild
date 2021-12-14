@@ -14,6 +14,9 @@ unzip "${HOME}/master.zip"
 cp ${HOME}/cwbplot-master/*.py "${whichlib}/cwbplot"
 touch "${whichlib}/cwbplot/__init__.py"
 
+
+chmod a+x downdata.sh
+
 #id="119oK5-Poz7-yVZTMraB7zwY1d75ximEj"
 #outname="wrfout1"
 #confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id='$id -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')
