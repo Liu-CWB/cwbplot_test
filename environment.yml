@@ -20,3 +20,4 @@ dependencies:
   - wrf-python
   - xarray
   - metpy
+  - colorcet
