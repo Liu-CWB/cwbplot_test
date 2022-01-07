@@ -23,8 +23,8 @@ extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = 'default'
-
+#html_theme = 'default'
+html_theme = "pydata_sphinx_theme"
 html_static_path = ['static']
 
 def setup(app):
