@@ -21,5 +21,17 @@ Documentation
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
+   :caption: Contents:
+
+    ./gallery_cwb
+   ./sometips
+   
    How to use <use_example>
+
+Whats new
+=========
+2022.1.10
+
+    * Add try
+
+    * Cool test
