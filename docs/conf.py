@@ -26,7 +26,7 @@ extlinks = {}
 
 #html_theme = 'default'
 html_theme = "pydata_sphinx_theme"
-html_static_path = ['../build/_static']
+html_static_path = ['static']
 
 
 
