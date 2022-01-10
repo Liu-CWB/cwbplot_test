@@ -23,13 +23,15 @@ extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = 'default'
-
+#html_theme = 'default'
+html_theme = "pydata_sphinx_theme"
 html_static_path = ['static']
 
-def setup(app):
+
+
+#def setup(app):
     # overrides for wide tables in RTD theme
-    app.add_css_file('theme_overrides.css') # path relative to static
+    #app.add_css_file('theme_overrides.css') # path relative to static
 
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
