@@ -8,19 +8,19 @@ The projection setting of this graph is done by basemap, but strongely change to
 .. hlist::
     :columns: 3
 
-    - .. figure:: image/_gallery/12acc_rainfall_basemap.png
+    - .. figure:: image/gallery/12acc_rainfall_basemap.png
         :width: 600
         :target: https://cwbplot.readthedocs.io/en/latest/example/12accrain_basemap.html
         
         Rainfall
     
-    - .. figure:: image/_gallery/surftemp_basemap.png
+    - .. figure:: image/gallery/surftemp_basemap.png
         :width: 600 
         :target: https://cwbplot.readthedocs.io/en/latest/example/surftemp_basemap.html
         
         Surface Temperature and Sea Level Pressure
         
-    - .. figure:: image/_gallery/two_colorbar.png
+    - .. figure:: image/gallery/two_colorbar.png
         :width: 600 
         :target: https://cwbplot.readthedocs.io/en/latest/example/surftemp_basemap.html
         
@@ -30,19 +30,19 @@ The projection setting of this graph is done by basemap, but strongely change to
 .. hlist::
     :columns: 3
 
-    - .. figure:: image/_gallery/rh_streamline_basemap.png
+    - .. figure:: image/gallery/rh_streamline_basemap.png
         :width: 300
         :target: https://cwbplot.readthedocs.io/en/latest/example/rh_streamline_basemap.html
         
         Relative humidity and streamline
     
-    - .. figure:: image/_gallery/CHANSHU.png
+    - .. figure:: image/gallery/CHANSHU.png
         :width: 600 
         :target: https://cwbplot.readthedocs.io/en/latest/example/tytrack_basemap.html
         
         Typhoon Track
         
-    - .. figure:: image/_gallery/Vertical_cross_section.png
+    - .. figure:: image/gallery/Vertical_cross_section.png
         :width: 600
         :target: https://cwbplot.readthedocs.io/en/latest/gallery_cwb.html
         

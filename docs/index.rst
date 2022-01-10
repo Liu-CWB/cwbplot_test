@@ -23,7 +23,7 @@ Documentation
    :maxdepth: 2
    :caption: Contents:
 
-    ./gallery_cwb
+   ./gallery_cwb
    ./sometips
    
    How to use <use_example>
