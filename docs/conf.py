@@ -2,7 +2,8 @@
 
 from __future__ import unicode_literals
 import sys, os
-import pydata_sphinx_theme
+
+#import pydata_sphinx_theme
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 sys.path.append(os.path.abspath(os.pardir))
@@ -25,7 +26,7 @@ extlinks = {}
 
 #html_theme = 'default'
 html_theme = "pydata_sphinx_theme"
-html_static_path = ['static']
+html_static_path = ['../build/_static']
 
 
 
